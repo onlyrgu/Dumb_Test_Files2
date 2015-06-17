@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1430279805 source:c:\users\raghu\documents\tutorials\tutorial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
